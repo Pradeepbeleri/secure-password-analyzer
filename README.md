@@ -2,22 +2,22 @@
 
 This is a simple Python command-line project that checks how strong a password is based on basic security rules. The goal of this project is to understand password validation and improve awareness of secure password practices.
 
+
 Features
-Checks if the password has at least 8 characters
-Verifies the use of both uppercase and lowercase letters
-Checks for numbers (digits)
-Detects special characters
-Gives a strength score from 0 to 100
-Suggests improvements if the password is weak
-Technologies Used
-Python
-Built-in Python libraries (re, getpass)
+- Minimum length check (8+ characters)
+- Uppercase and lowercase validation
+- Digit detection
+- Special character detection
+- Password strength score (0–100)
+- Suggestions to improve weak passwords
+
 
 How to Run the Program
 Make sure Python is installed on your system
 Open a terminal or command prompt
 Run the following command:
-Python main.py
+python main.py
+
 
 
 The password input will be hidden for security purposes
